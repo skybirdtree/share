@@ -1,4 +1,4 @@
-## ~欢迎来到我的个人主页~
+# ~欢迎来到我的个人主页~
 
 You can use the [editor on GitHub](https://github.com/skybirdtree/share/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
